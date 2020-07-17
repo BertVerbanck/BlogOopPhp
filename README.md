@@ -2,7 +2,8 @@
 Blog build using OOP in Php
 
 Full Crud functions
--Users
+
+Users
 -Photos
 -Comments
 etc..
