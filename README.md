@@ -1,6 +1,12 @@
 # BlogOopPhp
 Blog build using OOP in Php
 
+Full Crud functions
+-Users
+-Photos
+-Comments
+etc..
+
 Admin map is hidden
 
 ![Alt text](/screenshot_blog.png?raw=true)
